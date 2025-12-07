@@ -1,7 +1,4 @@
-﻿using System.Diagnostics.CodeAnalysis;
-using System.Diagnostics.Contracts;
-
-namespace AdventOfCode2025.Day3b;
+﻿namespace AdventOfCode2025.Day3b;
 
 public class Worker : IWorker
 {

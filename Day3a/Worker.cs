@@ -1,6 +1,4 @@
-﻿using System.Diagnostics.CodeAnalysis;
-
-namespace AdventOfCode2025.Day3a;
+﻿namespace AdventOfCode2025.Day3a;
 
 public class Worker : IWorker
 {
