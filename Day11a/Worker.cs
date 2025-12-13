@@ -11,7 +11,7 @@ public class Worker : IWorker
             connections[parts[0]] = parts.Skip(1).ToArray();
         }
 
-        return CountConnections(connections, "you"); ;
+        return CountConnections(connections, "you");
     }
 
     private long CountConnections(Dictionary<string, string[]> connections, string device)
